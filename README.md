@@ -6,3 +6,7 @@ Similar to the concept of "code smells", so-called "test smells" describe situat
 ### How to run the tool?
 
 Execute the "Deep Test Code Analyzer.jar" file with the command 'java -jar "Deep Test Code Analyzer.jar"' or by double-clicking on it.
+
+### Dataset to test the tool
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7351414.svg)](https://doi.org/10.5281/zenodo.7351414)
